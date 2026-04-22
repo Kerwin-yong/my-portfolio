@@ -1,53 +1,53 @@
-# Catherine's Portfolio - README
+Yong Jian's Portfolio - README
+📌 Overview
+This repository showcases my professional journey as a UI/UX Designer & Frontend Developer. It’s not just a collection of links, but a demonstration of how I bridge the gap between creative design and functional code.
 
-## 📌 Overview
-This repository contains the source code for Catherine Ong Co's professional portfolio website. The website showcases her skills, experience, projects, and contact information as a web designer/developer.
+🚀 Key Projects
+iPhone 17 Pro Clone: A high-fidelity interactive site focused on GSAP scroll-triggered animations and 3D interactions.
 
-## 🚀 Features
-- **Responsive Design**: Works on all device sizes
-- **Interactive Elements**: Smooth transitions and modal windows
-- **Multi-page Content**: Organized into sections:
-  - About Me
-  - Resume (Education & Experience)
-  - Portfolio (Projects)
-  - Contact Form
-- **Testimonials Section**: With interactive modal view
-- **Skills Showcase**: Visual representation of technical skills
-- **Downloadable Resume**: Direct download link for CV
+Movie Search App: A dynamic React application with real-time API integration (TMDB) and optimized search performance.
 
-## 🛠 Technologies Used
-- HTML5
-- CSS3
-- JavaScript
-- [Ion Icons](https://ionicons.com/)
-- Google Fonts (Poppins)
-- FormSubmit for contact form handling
+UI/UX Case Studies: Detailed design documentation including user research, wireframing, and visual iterations (V1-V3).
 
-## 📂 Project Structure
-```
+✨ Features
+Design-Centric UI: Pixel-perfect implementation based on professional design standards.
+
+Advanced Animations: Smooth, high-performance interactions using GSAP and CSS Keyframes.
+
+Modern Tech Stack: Built with React 19 and Vite for lightning-fast performance.
+
+Responsive & Accessible: Optimized for all screen sizes with a focus on user experience (UX).
+
+🛠 Technologies Used
+Frontend: React, Vite, GSAP (GreenSock), JavaScript (ES6+)
+
+Design: Figma, UI/UX Research, Design Systems
+
+Tools: GitHub Pages, Vercel, Ion Icons, Google Fonts
+
+Styling: Modern CSS3 (Flexbox/Grid), Tailwind CSS
+
+📂 Project Structure
+projects/
+├── apple-clone/      # Source code for the iPhone clone
+├── movie-app/        # Source code for the Movie app
+uiux.html             # Dedicated UI/UX showcase page
+index.html            # Main VCard entry point
 assets/
-├── css/            # Stylesheets
-├── images/         # All images and icons
-├── js/             # JavaScript files
-index.html          # Main HTML file
-```
+├── css/              # Project-specific styles
+├── images/           # High-quality project screenshots
 
-## 🔧 Setup
-No installation required! Simply open `index.html` in any modern web browser.
 
-## 🌐 Live Demo
-[View Live Portfolio](#) *(Add your deployment link here when available)*
+🌐 Live Demo
+Main Portfolio: Visit My Portfolio
 
-## 📬 Contact
-- **Email**: [catherineong0220@gmail.com](mailto:catherineong0220@gmail.com)
-- **Phone**: +60 11 2719 3799
-- **Location**: Cheras, Selangor, Malaysia
-- **LinkedIn**: [catherineong0220](https://www.linkedin.com/in/catherineong0220/)
-- **GitHub**: [catherine0220](https://github.com/catherine0220)
+Apple Clone: Live Preview
 
-## 📝 License
-This project is open-source and available under the [MIT License](LICENSE).
+Movie App: Live Preview
 
----
+📬 Contact
+Email: yongjian2002@gmail.com
 
-✨ **Thank you for visiting!** ✨
+Location: Cheras, Selangor, Malaysia
+
+GitHub: Kerwin-yong
